@@ -49,3 +49,87 @@ export const userData = [
     },
 
 ];
+
+export const userRows = [
+    {
+        id: 1,
+        username: 'John Snow',
+        avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRUph-F_7ZkS1JmSe4DJcsmTBbmJmP2WevcefH0ZXn0jZ02S4&s",
+        email: "john@gmail.com",
+        status: "active",
+        transactions: "$140.89"
+    },
+    {
+        id: 2,
+        username: 'John Snow',
+        avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRUph-F_7ZkS1JmSe4DJcsmTBbmJmP2WevcefH0ZXn0jZ02S4&s",
+        email: "john@gmail.com",
+        status: "active",
+        transactions: "$140.89"
+    },
+    {
+        id: 3,
+        username: 'John Snow',
+        avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRUph-F_7ZkS1JmSe4DJcsmTBbmJmP2WevcefH0ZXn0jZ02S4&s",
+        email: "john@gmail.com",
+        status: "active",
+        transactions: "$140.89"
+    },
+    {
+        id: 4,
+        username: 'John Snow',
+        avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRUph-F_7ZkS1JmSe4DJcsmTBbmJmP2WevcefH0ZXn0jZ02S4&s",
+        email: "john@gmail.com",
+        status: "active",
+        transactions: "$140.89"
+    },
+    {
+        id: 5,
+        username: 'John Snow',
+        avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRUph-F_7ZkS1JmSe4DJcsmTBbmJmP2WevcefH0ZXn0jZ02S4&s",
+        email: "john@gmail.com",
+        status: "active",
+        transactions: "$140.89"
+    },
+    {
+        id: 6,
+        username: 'John Snow',
+        avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRUph-F_7ZkS1JmSe4DJcsmTBbmJmP2WevcefH0ZXn0jZ02S4&s",
+        email: "john@gmail.com",
+        status: "active",
+        transactions: "$140.89"
+    },
+    {
+        id: 7,
+        username: 'John Snow',
+        avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRUph-F_7ZkS1JmSe4DJcsmTBbmJmP2WevcefH0ZXn0jZ02S4&s",
+        email: "john@gmail.com",
+        status: "active",
+        transactions: "$140.89"
+    },
+    {
+        id: 8,
+        username: 'John Snow',
+        avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRUph-F_7ZkS1JmSe4DJcsmTBbmJmP2WevcefH0ZXn0jZ02S4&s",
+        email: "john@gmail.com",
+        status: "active",
+        transactions: "$140.89"
+    },
+    {
+        id: 9,
+        username: 'John Snow',
+        avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRUph-F_7ZkS1JmSe4DJcsmTBbmJmP2WevcefH0ZXn0jZ02S4&s",
+        email: "john@gmail.com",
+        status: "active",
+        transactions: "$140.89"
+    },
+    {
+        id: 10,
+        username: 'John Snow',
+        avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRUph-F_7ZkS1JmSe4DJcsmTBbmJmP2WevcefH0ZXn0jZ02S4&s",
+        email: "john@gmail.com",
+        status: "active",
+        transactions: "$140.89"
+    },
+
+];
